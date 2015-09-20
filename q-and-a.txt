@@ -2,15 +2,16 @@ Answer the following questions:
 
 
 1. What is your favorite local restaurant?
-
+Havana Harry’s
 
 2. Name the last good book you read (title, author?).
-
+A Spot of Bother, Mark Haddon
 
 3. Which album/artist is in heavy rotation on your iPod/iPhone/MP3 player/stream?
-
+Worlds, by Porter Robinson
 
 4. Which text/code editor did you decide to use?
-
+Atom
 
 5. If you were to build a web site for fun, what would it be about?
+Travel Blog.
